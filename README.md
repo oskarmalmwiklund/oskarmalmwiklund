@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @oskarmalmwiklund
+- 👀 I’m interested in computer science, economics, psychology, social impact and investments
+- 🌱 I’m currently learning Java, Javascript, Python
+- 💞️ I’m looking to collaborate on anything!
+- 📫 How to reach me oskarmalmwiklund.se
